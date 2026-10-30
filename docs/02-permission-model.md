@@ -39,7 +39,7 @@ Konsekuensi yang disengaja:
 | SOP reimbursement | ✅ | ✅ | ✅ | ✅ | ✅ |
 | Matriks persetujuan | ✅ | ✅ | ✅ | ✅ | ✅ |
 | Struktur gaji | ❌ | ❌ | **❌** | ✅ | ✅ |
-| Proyek Kenari (internal) | ❌ | ✅ | ❌ | ❌ | ✅ |
+| Proyek restricted (internal) | ❌ | ✅ | ❌ | ❌ | ✅ |
 | Kontak HR (PII) | ❌ | ❌ | ❌ | ✅ | ✅ |
 
 Pewarisan **tidak** menaikkan hak ke dokumen yang lebih ketat — ia hanya
